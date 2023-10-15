@@ -1,0 +1,33 @@
+IMPLEMENTED:
+- Create user - check
+- Implement JWT -check
+- Signin implementation  - check
+- Create Restaurant  - check
+- Create Review  - check
+- Retrive Restaurants with review  - check
+- Retrive Restaurants by location -check
+- Create order - check
+- Return orders for client - check 
+- Edit Products in Restaurant check
+- Edit Restaurant check
+- Fully review of security for dto-s partial check !
+- Get all review of one restaurant check
+- Return orders for restaurant // they are returned in restaurant object
+FUTURE IMPLEMENTATIONS:
+- Web sockets - notifications for all kind of users 
+- Map api implementations for real life geolocation: USER-RIDER
+- Analitics for PARTNER user
+- Reviews for RIDERS and CLIENTS
+- Boost of performance by Lazy loading modules
+- Storing sensitives data in env-vars
+- Optimizing code for production
+- Repeat an order / prob from front end.
+- Filter products
+- Filter Restaurants
+- Complete tests for all features
+- Final check after fully consumtion from FE
+- Edit Profile user
+- Delete Products
+- Delete Restaurant
+- Cancel order
+- Edit Review

@@ -1,0 +1,42 @@
+
+
+
+{
+    "firstName": "Angelo",
+    "lastName": "Dildau",
+    "email": "dildau@gmail.com",
+    "password": "Dildauangelo69.",
+    "role": "CLIENT"
+}  
+
+{
+    "name": "Restaurantul Le Chef",
+    "imageUrl": "https://exemplu.com/restaurant-le-chef.jpg",
+    "location": "Pitesti",
+    "specific": ["Mediterranean", "Franțuzesc"],
+    "type": "Fine Dining"
+}
+
+
+{
+    "comment":"Cel mai bun restaurant",
+    "rating": 5
+}
+
+{
+    "restaurantId": 1,
+    "deliveryAddress": "strada cugir",
+    "items":[
+        {
+            "product":{
+                "id": 12,
+                "name": "este",
+                "ingredients": "Cacat",
+                "weight": 555,
+                "price": 35,
+                "oldPrice": null
+                },
+            "quantity": 2
+        }
+    ]
+}
